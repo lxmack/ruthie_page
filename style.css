@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Indie+Flower');
+
+body {
+  background-color: purple;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: "Indie+Flower" , sans-serif;
+}
+
+.things {
+  color: green;
+
+}
+
+li.hover {
+  background-color: red
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
